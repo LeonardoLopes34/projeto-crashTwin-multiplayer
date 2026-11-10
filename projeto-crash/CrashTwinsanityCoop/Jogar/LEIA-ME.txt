@@ -42,7 +42,8 @@ O QUE JA FUNCIONA (MODO RADMIN VPN - 1 JANELA POR PC, 100% FPS)
 ---------------------------------------------------------------
 - Cada PC abre apenas 1 janela e renderiza apenas 1 visao (sem queda de FPS de abrir 2 jogos ou dividir renderizacao).
 - Os 2 Crashes existem por completo no mundo e interagem com o cenario e entre si:
-  * Inimigos, chefes, Cortex, Nina, Aku Aku, minhocas, botoes, portas, plataformas e gatilhos reagem aos 2 Crashes.
+  * Cada PC roda o mundo do proprio Crash: inimigos, minhocas, botoes e gatilhos reagem a quem esta naquele PC.
+    Os golpes do parceiro em caixas, inimigos e objetos, as frutas, os checkpoints e as cutscenes sao copiados pela rede.
   * Colisao fisica entre os 2 Crashes: empurrao lateral no chao e golpes (giro, rasteira, barrigada) que lancam o parceiro.
   * Jogador 2 com cor diferenciada (Crash Verde).
   * Sem Game Over quando as vidas chegam a zero no co-op (as vidas voltam para 3 e o jogo retorna ao ultimo checkpoint).
@@ -57,6 +58,8 @@ O QUE JA FUNCIONA (MODO RADMIN VPN - 1 JANELA POR PC, 100% FPS)
 
 O QUE AINDA E DE TESTE
 ----------------------
+- Os dois precisam da MESMA versao do jogo. Se forem diferentes, aparece embaixo da tela "o outro jogo e de outra versao"
+  e eles nao se conectam: os dois baixam o zip mais novo.
 - Cada um ainda comeca do proprio save (entrar no save do host vem depois).
 - Inimigos andam de forma diferente em cada jogo (so os golpes sao copiados).
 - Caixas que explodem (TNT/nitro) podem soltar frutas nos dois jogos.
