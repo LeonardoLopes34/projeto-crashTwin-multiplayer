@@ -25,3 +25,8 @@ projeto-crash/CrashTwinsanityCoop/pid*.txt
 projeto-crash/CrashTwinsanityCoop/build_log.txt
 projeto-crash/CrashTwinsanityCoop/cam_*.txt
 projeto-crash/CrashTwinsanityCoop/snap_*/
+
+# Logs e diagnosticos locais
+projeto-crash/CrashTwinsanityCoop/Jogar/diagnostico.txt
+projeto-crash/CrashTwinsanityCoop/Jogar/log_*.txt
+projeto-crash/CrashTwinsanityCoop/Jogar/options_copia.txt
