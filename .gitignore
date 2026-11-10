@@ -1,0 +1,27 @@
+# Codigo-fonte do mod: fica no fork (github.com/LeonardoLopes34/Crash-Twinsanity-Windows, branch coop-online)
+projeto-crash/CrashTwinsanityCoop/Crash-Twinsanity-Windows/
+projeto-crash/CrashTwinsanityCoop/reference/
+
+# Jogo original: nunca enviar
+*.iso
+SLES_*
+
+# Compilados e pacotes (vao em Releases, nao no git)
+*.exe
+*.dll
+*.zip
+*.obj
+*.o
+projeto-crash/CrashTwinsanityCoop/build/
+projeto-crash/CrashTwinsanityCoop/CrashTwinsanity-CoOp-teste/
+projeto-crash/CrashTwinsanityCoop/Jogar/fonts/
+
+# Testes: prints, logs e pids
+projeto-crash/CrashTwinsanityCoop/*.png
+projeto-crash/CrashTwinsanityCoop/*_log.txt
+projeto-crash/CrashTwinsanityCoop/*_out.txt
+projeto-crash/CrashTwinsanityCoop/*_err.txt
+projeto-crash/CrashTwinsanityCoop/pid*.txt
+projeto-crash/CrashTwinsanityCoop/build_log.txt
+projeto-crash/CrashTwinsanityCoop/cam_*.txt
+projeto-crash/CrashTwinsanityCoop/snap_*/
