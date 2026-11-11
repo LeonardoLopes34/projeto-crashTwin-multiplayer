@@ -1,15 +1,8 @@
-# projeto-crashTwin-multiplayer
+# projeto-crashTwin-multiplayer (arquivado)
 
-Mod de co-op (online e dois jogadores no mesmo PC) para Crash Twinsanity, baseado no port nativo para PC
-[Crash-Twinsanity-Windows](https://github.com/GioPixelGH/Crash-Twinsanity-Windows).
+> **Este repositório foi substituído.** Todo o mod de dois jogadores (código, guias, scripts e a pasta de jogar) agora
+> fica num lugar só, no fork:
+>
+> **https://github.com/LeonardoLopes34/Crash-Twinsanity-Windows** (branch `coop-online`; comece por `coop/README.md`)
 
-## Onde esta cada coisa
-
-| O que | Onde |
-|---|---|
-| Codigo-fonte do mod | fork [LeonardoLopes34/Crash-Twinsanity-Windows](https://github.com/LeonardoLopes34/Crash-Twinsanity-Windows), branch `coop-online` (em `projeto-crash/CrashTwinsanityCoop/Crash-Twinsanity-Windows`) |
-| Plano tecnico | `projeto-crash/CrashTwinsanityCoop/PLANO_COOP.md` |
-| Scripts e guias para jogar | `projeto-crash/CrashTwinsanityCoop/Jogar/` |
-| Versoes compiladas (.exe, DLLs) | Releases deste repositorio |
-
-Cada jogador precisa da propria ISO PAL (SLES-52568). A ISO e o executavel do PS2 nunca vao para o git.
+Os releases v0.1.0 e v0.1.1 continuam aqui só como histórico.
